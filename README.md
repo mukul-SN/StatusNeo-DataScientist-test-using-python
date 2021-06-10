@@ -1,7 +1,7 @@
 # StatusNeo-DataScientist-test-using-python
 
 # Python-test
-Visualization and EDA task given by Redcarpet Pvt Ltd
+Visualization and EDA task given by Statusneo 
 
 ### Below is the information about dataset and list of task to be perform.
 
